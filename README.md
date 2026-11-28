@@ -8,5 +8,5 @@
 </p>
   <details>
   <summary>The Mister Fantastic of PonyTown</summary><h5 align="center">
-‎ <a href="https://github.com/pony-town-nominations"> pony-town-nominations </a> ₊ <a href="https://github.com/marvelous-pt‎"> marvelous-pt </a> ₊ <a href="https://github.com/juminotown"> juminotown </a> ₊ <a href="https://github.com/Knox-Event"> Knox-Event </a> ₊ <a href="https://github.com/THE-TEMPIST"> THE-TEMPIST </a>
+‎ <a href="https://github.com/pony-town-nominations"> pony-town-nominations </a> ₊ <a href="https://github.com/marvelous-pt‎"> marvelous-pt </a> ₊ <a href="https://github.com/juminotown"> juminotown </a> ₊ <a href="https://github.com/Knox-Event"> Knox-Event </a> ₊ <a href="https://github.com/THE-TEMPIST"> the-tempist </a>
   </details>
